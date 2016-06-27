@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Flickr Photo Application</string>
+    <string name="recent">RECENTS</string>
+    <string name="search">SEARCH</string>
+    <string name="no_search_results">No Search Results Found</string>
+    <string name="no_connection">No Connection</string>
+    <string name="menu_share">Share</string>
+    <string name="untitled">Untitled</string>
+    <string name="by">by</string>
+    <string name="info">Info</string>
+    <string name="share">Share</string>
+    <string name="aperture">APERTURE</string>
+    <string name="iso">ISO</string>
+    <string name="shutter">SHUTTER</string>
+    <string name="focal_length">Focal Length</string>
+    <string name="none">None</string>
+    <string name="title">Title:</string>
+    <string name="description">Description:</string>
+    <string name="tags">Tags:</string>
+</resources>

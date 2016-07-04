@@ -16,3 +16,7 @@ EndlessAdapter By Mark Murphy: To show the endless list of images.
 A demo video of this client is uploaded here:
 
 https://youtu.be/dOxiD5mKQzY
+
+This app is now also available on Play Store:
+
+https://goo.gl/CmFfg8
